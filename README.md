@@ -29,5 +29,7 @@
 
 - All quotes are stored in quotes.txt, making it easy to personalize or expand the motivational list.
 
+---
+
 ## 🙌 Acknowledgments
 Created and developed by Victor Phan
